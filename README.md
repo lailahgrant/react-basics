@@ -1,3 +1,2 @@
-# react-z8vhbv
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-z8vhbv)
+# Getting Started with React - An Overview and Walkthrough Tutorial
+by [taniarascia](https://www.taniarascia.com/)
